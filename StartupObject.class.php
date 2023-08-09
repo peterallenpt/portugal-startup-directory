@@ -41,7 +41,11 @@ class StartupObject
     */
     private $website = "";
 
-
+    /**
+    * Describe the variable
+    * @var integer
+    */
+    private $numberofFounders = false;
     
     /**
      * Constructor
