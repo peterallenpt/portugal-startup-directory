@@ -46,6 +46,15 @@ class StartupObject
     * @var integer
     */
     private $numberofFounders = false;
+
+
+    /**
+    * Describe the variable
+    * @var integer
+    * rating system tbc
+    */
+    private $diversityRating = false;
+
     
     /**
      * Constructor
