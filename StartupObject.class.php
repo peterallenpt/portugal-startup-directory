@@ -55,7 +55,40 @@ class StartupObject
     */
     private $diversityRating = false;
 
-    
+    /**
+    * Describe the variable
+    * Placeholder diversity rating A
+    * @var integer
+    * rating system tbc
+    */
+    private $diversityRatingA = false;
+
+        /**
+    * Describe the variable
+    * Placeholder diversity rating B
+    * @var integer
+    * rating system tbc
+    */
+    private $diversityRatingB = false;
+
+        /**
+    * Describe the variable
+    * Placeholder diversity rating C
+    * @var integer
+    * rating system tbc
+    */
+    private $diversityRatingC = false;
+
+    /**
+    * Describe the variable
+    * Placeholder diversity rating D
+    * @var integer
+    * rating system tbc
+    */
+    private $diversityRatingD = false;
+
+
+        
     /**
      * Constructor
      * Initialises the declared properties to their matching incoming values (if supplied)
