@@ -63,7 +63,7 @@ class StartupObject
     */
     private $diversityRatingA = false;
 
-        /**
+    /**
     * Describe the variable
     * Placeholder diversity rating B
     * @var integer
@@ -71,7 +71,7 @@ class StartupObject
     */
     private $diversityRatingB = false;
 
-        /**
+    /**
     * Describe the variable
     * Placeholder diversity rating C
     * @var integer
