@@ -87,7 +87,13 @@ class StartupObject
     */
     private $diversityRatingD = false;
 
-
+    /**
+    * Describe the variable
+    * Placeholder diversity rating E
+    * @var integer
+    * rating system tbc
+    */
+    private $diversityRatingE = false;
         
     /**
      * Constructor
