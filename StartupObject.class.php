@@ -2,8 +2,14 @@
 
 // StartupObject
 // Startup Directory object by PJA
-// Version 2023-03-15
+// Version 2023-08-24
 // Placeholder file
+
+
+// To-dos
+// Categories
+// Years of operation
+
 
 namespace StartupDirectory\Classes;
 
