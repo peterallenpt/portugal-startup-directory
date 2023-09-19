@@ -2,14 +2,14 @@
 
 // StartupObject
 // Startup Directory object by PJA
-// Version 2023-08-24
+// Version 2023-09-19
 // Placeholder file
 
 
 // To-dos
 // Categories
 // Years of operation
-
+// Incorporate the timestamp checker
 
 namespace StartupDirectory\Classes;
 
